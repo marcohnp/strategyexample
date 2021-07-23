@@ -1,9 +1,9 @@
 package com.marcohnp.strategy.strategy;
 
 import com.marcohnp.strategy.enums.OperationTypeEnum;
+import org.springframework.stereotype.Component;
 
-import java.util.Objects;
-
+@Component
 public class AddStrategy implements CalculatorStrategy {
 
     @Override

@@ -1,7 +1,6 @@
 package com.marcohnp.strategy.model;
 
 import com.marcohnp.strategy.enums.OperationTypeEnum;
-import com.marcohnp.strategy.strategy.CalculatorStrategy;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
